@@ -14,9 +14,52 @@
 
 ---
 
-### User Stories
+## 1. User Stories (Required and Optional)
+
 1. User can search for gas stations near their location and see the ranges in prices. The user can also view the ratings in customer service, snacks, and drinks from each station.
 
+**Required Must-have Stories**
+
+ * Access user's location
+ * Manual input of address / zip code
+ * Display gas prices side by side
+ * Display Distance / ETA
+ * 
+
+**Optional Nice-to-have Stories**
+
+ * Use daily routes to find convenient gas stations
+ * recomend different routes for lower gas usage
+ * snack diversity
+ * customer ratings
+ * Traffic report
+ 
+
+## 2. Screen Archetypes
+
+ * [list first screen here]
+   * [list associated required story here]
+   * ...
+ * [list second screen here]
+   * [list associated required story here]
+   * ...
+
+## 3. Navigation
+
+**Tab Navigation** (Tab to Screen)
+
+ * [fill out your first tab]
+ * [fill out your second tab]
+ * [fill out your third tab]
+
+**Flow Navigation** (Screen to Screen)
+
+ * [list first screen here]
+   * [list screen navigation here]
+   * ...
+ * [list second screen here]
+   * [list screen navigation here]
+   * ...
 ---
 
 ### Wireframes
